@@ -1,8 +1,8 @@
-I'm Joachim Landell, a student passionate about VideoGames. Welcome to my GitHub profile!
+I'm Joachim Landell, a student passionate about videogames. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🌱 I'm currently learning Programing and Networking.
+- 🌱 I'm currently learning Programming and Networking.
 - 💼 I study at Polhemsskolan.
 - 📫 You can reach me at Joachim.landell@gavle.skola.se.
 
@@ -10,7 +10,7 @@ I'm Joachim Landell, a student passionate about VideoGames. Welcome to my GitHub
 
 Here are some of the projects I've been working on:
 
-1. [WebPage]https://github.com/Polhemsskolan-DATA/sidmallen-DePhrog
+1. [WebPage](https://github.com/Polhemsskolan-DATA/sidmallen-DePhrog)
 
 
 ## Skills
