@@ -3,7 +3,7 @@ I'm Joachim Landell, a student passionate about VideoGames. Welcome to my GitHub
 ## About Me
 
 - 🌱 I'm currently learning Programing and Networking.
-- 💼 I work at Polhemskolan.
+- 💼 I study at Polhemskolan.
 - 📫 You can reach me at Joachim.landell@gavle.skola.se.
 
 ## My Projects
